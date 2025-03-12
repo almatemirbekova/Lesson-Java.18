@@ -5,5 +5,6 @@ public class Main {
         Animals animals=new Animals();
         animals.eat();
         animals.sleep();
+        System.out.println("temirbekova");
     }
 }
